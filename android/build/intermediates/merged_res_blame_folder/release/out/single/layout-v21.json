@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dev/Work/Projects/Geoverse/geoverse_app_rn/node_modules/@hmscore/react-native-hms-location/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/dev/.gradle/caches/transforms-3/e0c0705c226689b3136b69a25609384c/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dev/Work/Projects/Geoverse/geoverse_app_rn/node_modules/@hmscore/react-native-hms-location/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/dev/.gradle/caches/transforms-3/e0c0705c226689b3136b69a25609384c/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dev/Work/Projects/Geoverse/geoverse_app_rn/node_modules/@hmscore/react-native-hms-location/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/dev/.gradle/caches/transforms-3/e0c0705c226689b3136b69a25609384c/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dev/Work/Projects/Geoverse/geoverse_app_rn/node_modules/@hmscore/react-native-hms-location/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/dev/.gradle/caches/transforms-3/e0c0705c226689b3136b69a25609384c/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
